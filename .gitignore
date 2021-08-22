@@ -1,0 +1,17 @@
+.idea
+**/__pycache__
+venv
+**/.DS_Store
+
+comparison_data
+comparison_figures
+
+supervised/figures
+supervised/history
+supervised/models
+supervised/scaler
+supervised/data
+
+unsupervised/figures
+unsupervised/histories
+unsupervised/weights

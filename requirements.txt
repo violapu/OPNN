@@ -1,0 +1,9 @@
+matplotlib==3.4.2
+numpy==1.21.0
+pandas==1.3.0
+quantlib==1.23
+quantsbin==1.0.3
+scikit-learn==0.24.2
+tensorflow==2.5.0
+tensorflow-probability==0.13.0
+tqdm==4.61.2
